@@ -25,13 +25,15 @@
 | :--- | :--- | :--- |
 | **Data Structures** | DSA with **Java** | 🌱 Currently Learning |
 | **Web Development** | Full Stack **MERN** | 🚀 In Progress |
-| **Low-Level** | C & C++ Terminal Apps | 💡 Exploring Projects |
+| **Community** | **GDG On Campus** Learning | 💡 University Involvement |
+| **Low-Level** | C & C++ Terminal Apps | ⚙️ Exploring Projects |
 
 ---
 
 ### ✨ Highlights
 
-- **Problem Solving:** Solved **200+ coding questions** (LeetCode, Codeforces, GFG).
+- **Community Learning:** Actively participating in **GDG On Campus** activities within the university.
+- **Problem Solving:** Solved **250+ coding questions** (LeetCode, Codeforces, GFG).
 - **Frontend Skills:** Practicing **HTML, CSS, & JavaScript** fundamentals.
 - **Goal:** To build real-world applications and improve problem-solving skills.
 
@@ -45,7 +47,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
 </p>
 
 ---
